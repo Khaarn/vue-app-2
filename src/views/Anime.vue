@@ -1,13 +1,18 @@
 <template>
   <div class="anime">
-    <h1>There you will see all the anime that you have see</h1>
+    <ListeAnime />
   </div>
 </template>
 
 
 <script>
+import ListeAnime from '@/components/ListeAnime.vue'
+
 export default {
-  name: "Anime"
+  name: 'Anime',
+  components: {
+    ListeAnime
+  }
 }
 </script>
 

@@ -1,13 +1,18 @@
 <template>
   <div class="manga">
-    <h1>There you will see all the manga that you have read</h1>
+    <ListeManga />
   </div>
 </template>
 
 
 <script>
+import ListeManga from '@/components/ListeManga.vue'
+
 export default {
-  name: "Manga"
+  name: 'Manga',
+  components: {
+    ListeManga
+  }
 }
 </script>
 

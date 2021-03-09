@@ -1,13 +1,18 @@
 <template>
   <div class="film">
-    <h1>There you will see all the film that you have see</h1>
+    <ListeFilm />
   </div>
 </template>
 
 
 <script>
+import ListeFilm from '@/components/ListeFilm.vue'
+
 export default {
-  name: "Film"
+  name: 'Film',
+  components: {
+    ListeFilm
+  }
 }
 </script>
 
