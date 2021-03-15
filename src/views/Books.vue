@@ -1,5 +1,5 @@
 <template>
-  <div id="Books">
+  <div class="Books">
     <ListeBooks />
   </div>
 </template>
