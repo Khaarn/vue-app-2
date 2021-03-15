@@ -2,10 +2,10 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/books">Books</router-link> |
-      <router-link to="/manga">Manga</router-link> |
-      <router-link to="/film">Film</router-link> |
-      <router-link to="/anime">Anime</router-link>
+      <router-link to="/books">Livres</router-link> |
+      <router-link to="/manga">Mangas</router-link> |
+      <router-link to="/film">Films</router-link> |
+      <router-link to="/anime">Animes</router-link>
     </div>
     <router-view/>
   </div>

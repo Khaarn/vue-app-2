@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Mes Animes</h1>
-    <button v-on:click="getAnimesData">Récupérer mes Animes</button>
+    <b-button v-on:click="getAnimesData">Récupérer mes Animes</b-button>
     <div v-for="AnimesData in AnimesDataList" :key="AnimesData.id" class="animes-data">
       <div>
         <span class="animes-titre">{{ AnimesData.titre }}</span>

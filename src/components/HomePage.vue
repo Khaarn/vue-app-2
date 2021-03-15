@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <p>
+      Petite application qui permet d'afficher les livres, mangas, films, animes, que vous avez déjà vu, lu, pour en garder une trace
+    </p>
   </div>
 </template>
 

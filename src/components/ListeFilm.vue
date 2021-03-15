@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Mes Films</h1>
-    <button v-on:click="getFilmsData">Récupérer mes Films</button>
+    <b-button v-on:click="getFilmsData">Récupérer mes Films</b-button>
     <div v-for="FilmsData in FilmsDataList" :key="FilmsData.id" class="Films-data">
       <div>
         <span class="Film-titre">{{ FilmsData.titre }}</span>
