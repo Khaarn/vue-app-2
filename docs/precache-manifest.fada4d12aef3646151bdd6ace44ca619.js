@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a665ec7dbfd6ca5c965c",
-    "url": "/vue-app-2/css/about.d0ff7cf7.css"
+    "revision": "f759c4a29854207befa9",
+    "url": "/vue-app-2/css/about.4283da02.css"
   },
   {
-    "revision": "61f318806e6ba1ebd4cb",
-    "url": "/vue-app-2/css/app.86c97585.css"
+    "revision": "db890f2259e7ae5f5022",
+    "url": "/vue-app-2/css/app.e638199b.css"
   },
   {
     "revision": "336b50112037a6965f8a",
@@ -16,35 +16,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-app-2/img/books.ff23f90d.png"
   },
   {
-    "revision": "04915bf5c4b02e52dc7971c3cac899cb",
+    "revision": "10073ffcb467f42d9f5b1a51dcca0107",
     "url": "/vue-app-2/index.html"
   },
   {
-    "revision": "a665ec7dbfd6ca5c965c",
-    "url": "/vue-app-2/js/about.47df112d.js"
+    "revision": "f759c4a29854207befa9",
+    "url": "/vue-app-2/js/about.4d8a2c59.js"
   },
   {
-    "revision": "61f318806e6ba1ebd4cb",
-    "url": "/vue-app-2/js/app.5c1f4586.js"
+    "revision": "db890f2259e7ae5f5022",
+    "url": "/vue-app-2/js/app.d17e06ff.js"
   },
   {
     "revision": "336b50112037a6965f8a",
     "url": "/vue-app-2/js/chunk-vendors.4a331f84.js"
   },
   {
-    "revision": "db02522de917df00c5dab4c8b8858dbe",
+    "revision": "9759ad872c5a15c93f5a2d3c6beff8a5",
     "url": "/vue-app-2/json/anime.json"
   },
   {
-    "revision": "db02522de917df00c5dab4c8b8858dbe",
+    "revision": "7779d7877f9d00470cbfa650166d54fa",
     "url": "/vue-app-2/json/books.json"
   },
   {
-    "revision": "db02522de917df00c5dab4c8b8858dbe",
+    "revision": "d32d5df7e3409c8b693dff961f4e803f",
     "url": "/vue-app-2/json/film.json"
   },
   {
-    "revision": "db02522de917df00c5dab4c8b8858dbe",
+    "revision": "50153a7b526af1b0a6cc7846c9fd2542",
     "url": "/vue-app-2/json/manga.json"
   },
   {
