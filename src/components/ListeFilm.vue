@@ -52,7 +52,7 @@ export default {
   },
   methods: {
     getFilmsData() {
-      fetch("../json/film.json", {
+      fetch("json/film.json", {
         headers : {
           'Content-Type': 'application/json',
           'Accept': 'application/json'
