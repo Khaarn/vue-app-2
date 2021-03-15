@@ -56,7 +56,7 @@ export default {
   },
   methods: {
     getAnimesData() {
-      fetch("/json/anime.json", {
+      fetch("../json/anime.json", {
         headers : {
           'Content-Type': 'application/json',
           'Accept': 'application/json'

@@ -56,7 +56,7 @@ export default {
   },
   methods: {
     getMangasData() {
-      fetch("/json/manga.json", {
+      fetch("../json/manga.json", {
         headers : {
           'Content-Type': 'application/json',
           'Accept': 'application/json'

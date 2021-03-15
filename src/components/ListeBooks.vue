@@ -57,7 +57,7 @@ export default {
   },
   methods: {
     getBooksData() {
-      fetch("/json/books.json", {
+      fetch("../json/books.json", {
         headers: {
           'Content-Type': 'application/json',
           'Accept': 'application/json'
